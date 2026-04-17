@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a mini Google Maps project that focuses on mapping and navigation features.<br>I'm currently learning Data Science and Machine Learning to strengthen my skills in analytics and AI.<br>I'm looking to collaborate on Open-source projects in Python, C++, or anything related to AI and game development.<br>Fun Fact - I play football.
+I'm currently working on a Handwriting to Font generation project that focuses on converting a human hand written text to a font used in softwares.<br>I'm currently learning Data Science and Machine Learning to strengthen my skills in analytics and AI.<br>I'm looking to collaborate on Open-source projects in Python, C++, or anything related to AI and game development.<br>Fun Fact - I play football.
 
 
 ## 🌐 Socials:
