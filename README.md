@@ -130,28 +130,67 @@ Currently, I'm developing an **Agentic AI System** while expanding my expertise 
 
 # 📌 Featured Projects
 
-## 🤖 Agentic AI System *(Currently in Development)*
+## ⚖️ Verdict AI — AI-Powered LLM Evaluation Platform
 
-A production-ready AI platform powered by multiple specialized AI agents capable of reasoning, routing tasks, and generating intelligent responses.
+An intelligent platform that evaluates and compares Large Language Model (LLM) responses using a multi-agent AI evaluation pipeline. Verdict AI analyzes responses across **Accuracy**, **Logic**, and **Completeness**, then generates a final verdict through an adjudicator agent.
 
 ### ✨ Features
 
-- 🤖 Multi-Agent Architecture
-- 🧠 Intelligent Routing
-- 📄 RAG Pipeline
-- ⚡ FastAPI Backend
-- 🔀 Parallel Workflows
-- 📊 Modular & Scalable Design
+- ⚖️ Multi-Agent LLM Evaluation
+- 🧠 Parallel AI Critics
+- 📊 AI-Powered Response Scoring
+- 🔍 Prompt Experiments
+- 🤖 Model Comparison
+- 📈 Analytics Dashboard
+- 💾 PostgreSQL & Supabase Integration
+- 🔎 Vector Search with Qdrant
+- ⚡ FastAPI REST API
 
-### ⚙ Tech Stack
+### ⚙️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,docker"/>
 </p>
 
 <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-0055AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+
+🔗 **GitHub:** https://github.com/Aayan165/Verdict-AI
+
+🌐 **Live Demo:** https://verdictaiapp.vercel.app
+
+> 🚀 **Status:** Active Development
+
+---
+
+## 🤖 Aureon — Multi-Agent AI Orchestration Platform *(Currently in Development)*
+
+A production-ready AI orchestration platform that coordinates multiple specialized AI agents to solve complex tasks through intelligent routing, workflow execution, and shared memory.
+
+### ✨ Features
+
+- 🤖 Multi-Agent Architecture
+- 🧠 Intelligent Task Routing
+- 🔄 Agent Communication
+- 📄 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI Backend
+- 🔀 LangGraph Workflows
+- 🧩 Modular Architecture
+- 🚀 Scalable & Production Ready
+
+### ⚙️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker"/>
+</p>
+
+<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
 
 > 🚧 **Status:** Actively under development.
 
@@ -159,15 +198,58 @@ A production-ready AI platform powered by multiple specialized AI agents capable
 
 ## 📄 Multi-PDF RAG Chatbot
 
-An AI chatbot capable of understanding multiple PDF documents using Retrieval-Augmented Generation and semantic search.
+An AI-powered chatbot capable of answering questions from multiple uploaded PDF documents using Retrieval-Augmented Generation (RAG), semantic search, and vector embeddings.
 
-### Features
+### ✨ Features
 
-- Upload Multiple PDFs
-- Semantic Search
-- AI-Powered Answers
-- FastAPI Backend
-- Vector Database Integration
+- 📄 Multi-PDF Upload
+- 🔍 Semantic Search
+- 🧠 Context-Aware AI Responses
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI Backend
+- 🔎 Qdrant Vector Database
+- 🤖 Google Gemini Integration
+
+### ⚙️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi"/>
+</p>
+
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge"/>
+
+🔗 **GitHub:** https://github.com/Aayan165/AI-PDF-Chatbot
+
+---
+
+## 🗺️ Mini Map — Intelligent Navigation System
+
+A Google Maps-inspired navigation application that computes optimal routes using graph algorithms and OpenStreetMap data while providing intelligent route analysis.
+
+### ✨ Features
+
+- 🗺️ Interactive Maps
+- 📍 Route Planning
+- ⚡ Dijkstra's Algorithm
+- 🚀 A* Pathfinding
+- 🤖 Chatbot-Assisted Navigation
+- 📊 Route Severity Analysis
+- 🌍 OpenStreetMap Integration
+
+### ⚙️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,react"/>
+</p>
+
+<img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge"/>
+
+🔗 **GitHub:** https://github.com/Aayan165/Mini-Google-Map-Algorithm
+
+> ✅ **Status:** Completed
 
 ---
 
