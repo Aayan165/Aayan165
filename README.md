@@ -266,9 +266,15 @@ A Google Maps-inspired navigation application that computes optimal routes using
 
 # 📊 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://yourinsights.vercel.app/api/insight?username=Aayan165&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false"/>
+
+</p> -->
+
+<p align="center">
+
+<img src="./profile/streak.svg" alt="GitHub Streak Stats"/>
 
 </p>
 
