@@ -51,67 +51,84 @@ Currently, I'm developing an **Agentic AI System** while expanding my expertise 
 
 # 💻 Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### 🤖 AI & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"/>
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-0055AA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YOLOv8-black?style=for-the-badge"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
 </p>
 
----
+### 🧠 RAG & Vector Databases
+
+<p align="left">
+  <img src="https://qdrant.tech/img/brand-resources-logos/qdrant-brandmark-red.png" width="55"/>
+  <img src="https://img.shields.io/badge/FAISS-0055AA?style=for-the-badge"/>
+</p>
+
+### ⚙️ Backend & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+</p>
 
 ### 🌐 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,ts" />
+</p>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="55"/>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="55"/>
+</td>
+
+<td valign="top" width="50%">
+
+### 🧑‍💻 Languages
+
+  <img src="https://skillicons.dev/icons?i=c,java,ts" />
+</p>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"/>
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55"/>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="55"/>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite" />
+
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45"/>
+
+### ☁️ DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,postman,vscode" />
+</p>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55"/>
+
+### 🎮 Game Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,godot" />
 </p>
 
----
-
-### ⚙ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-</p>
-
----
-
-### 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite"/>
-</p>
-
-### 🧠 Vector Databases
-
-<p>
-<img src="https://img.shields.io/badge/Qdrant-FF6B6B?style=for-the-badge&logo=qdrant&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-0055AA?style=for-the-badge"/>
-</p>
-
----
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts"/>
-</p>
-
----
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
